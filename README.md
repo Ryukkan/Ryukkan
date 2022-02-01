@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @Ryukkan
 - 🌱 I’m currently learning **C** and **Java**
 
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=leilaapsilva&repo=JulioEvencio&countColorcountColor)
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=leilaapsilva&repo=Ryukkan&countColorcountColor)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryukkan)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryukkan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
